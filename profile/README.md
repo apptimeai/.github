@@ -6,7 +6,7 @@ Apptime is a SaaS for creating pages in a completely easy and fast way created b
 
 - ### ***[Apptime](https://appti.me/)***
 
-<a href="https://apptime.dev" target="_blank"><img src="https://appti.me/images/website-preview.jpg" target="_blank"></a>
+<a href="https://apptime.dev" target="_blank"><img src="https://storage.googleapis.com/storage.apptime.dev/appAssets/lp/website-preview.jpg" target="_blank"></a>
 
 ---
 
