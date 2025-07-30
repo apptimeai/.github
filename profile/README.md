@@ -6,7 +6,7 @@ Apptime is a SaaS for creating pages in a completely easy and fast way created b
 
 - ### ***[Apptime](https://appti.me/)***
 
-<a href="https://apptime.dev" target="_blank"><img src="https://storage.googleapis.com/storage.apptime.dev/appAssets/lp/website-preview.jpg" target="_blank"></a>
+<a href="https://apptime.com.br" target="_blank"><img src="https://apptime.com.br/images/website-preview.jpg" target="_blank"></a>
 
 ---
 
@@ -19,10 +19,7 @@ Follow us on our social media:
 
 ## If you like our work, you can donate to us:
 ### Bitcoin Wallet:
-`bc1q57909p6aahnq8yhlvt9llvqvek836uklyaw3tx`
-
-### Ethereum / Polygon Wallet:
-`0x36ae07dfb1a61c558bb3de508214a0020fb263de`
+`bc1qz9l9rkrrpk09plkj9ysat5xuy85j27umtek9uy`
 
 ### Buy me a coffee:
 
