@@ -4,9 +4,9 @@ Apptime is a SaaS for creating pages in a completely easy and fast way created b
 
 ## Visit the Apptime website and other projects!
 
-- ### ***[Apptime](https://appti.me/)***
+- ### ***[Apptime](https://apptime.ai/)***
 
-<a href="https://apptime.com.br" target="_blank"><img src="https://apptime.com.br/images/website-preview.jpg" target="_blank"></a>
+<a href="https://apptime.ai" target="_blank"><img src="https://apptime.com.br/images/website-preview.jpg" target="_blank"></a>
 
 ---
 
