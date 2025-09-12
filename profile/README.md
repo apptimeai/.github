@@ -13,9 +13,10 @@ Apptime is a SaaS for creating pages in a completely easy and fast way created b
 ## Get involved!
 
 Follow us on our social media:
-- ### ***[Instagram](http://instagram.com/apptime.ai)***
+- ### ***[Instagram](http://instagram.com/apptimeai)***
 - ### ***[LinkedIn](https://linkedin.com/company/apptimeai)***
-- ### ***[Forus](https://forus.app/apptime)***
+- ### ***[X](https://x.com/apptimeai)***
+- ### ***[TikTok](https://www.tiktok.com/@apptimeai)***
 
 ## If you like our work, you can donate to us:
 ### Bitcoin Wallet:
