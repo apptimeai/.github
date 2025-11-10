@@ -1,8 +1,8 @@
 # Welcome to Apptime 🚀
 
-Apptime is a SaaS for creating pages in a completely easy and fast way created by Brazilian indie hackers.
+Created by Brazilian indie hackers, Apptime is a platform for creating and sharing apps in an easy way.
 
-## Visit the Apptime website and other projects!
+## Visit Apptime!
 
 - ### ***[Apptime](https://apptime.ai/)***
 
