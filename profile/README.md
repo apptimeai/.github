@@ -15,8 +15,6 @@ Created by Brazilian indie hackers, Apptime is a platform for creating and shari
 Follow us on our social media:
 - ### ***[Instagram](http://instagram.com/apptimeai)***
 - ### ***[LinkedIn](https://linkedin.com/company/apptimeai)***
-- ### ***[X](https://x.com/apptimeai)***
-- ### ***[TikTok](https://www.tiktok.com/@apptimeai)***
 
 ## If you like our work, you can donate to us:
 ### Bitcoin Wallet:
