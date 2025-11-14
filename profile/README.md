@@ -1,6 +1,6 @@
 # Welcome to Apptime 🚀
 
-Created by Brazilian indie hackers, Apptime is a platform for creating and sharing apps in an easy way.
+Created by Brazilian indie builders, Apptime is a platform for creating and sharing apps in an easy way.
 
 ## Visit Apptime!
 
