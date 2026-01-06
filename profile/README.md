@@ -4,11 +4,7 @@ Created by Brazilian indie builders, Apptime is a platform for creating and shar
 
 ## Visit Apptime!
 
-- ### ***[Apptime](https://apptime.ai/)***
-
 <a href="https://apptime.ai" target="_blank"><img src="https://apptime.ai/og-image.webp" target="_blank"></a>
-
----
 
 ## Get involved!
 
