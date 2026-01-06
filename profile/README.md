@@ -2,7 +2,7 @@
 
 Created by Brazilian indie builders, Apptime is a platform for creating and sharing apps in an easy way.
 
-## Visit Apptime!
+## Visit Apptime AI! ↓
 
 <a href="https://apptime.ai" target="_blank"><img src="https://apptime.ai/og-image.webp" target="_blank"></a>
 
