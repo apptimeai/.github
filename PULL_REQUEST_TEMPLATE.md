@@ -12,4 +12,4 @@ Description of what this PR is changing or adding and why
 
 ## *Before/after screenshots:*
 
-[![Apptime](https://apptime.com.br/icons/icon-128x128.png)](https://apptime.com.br)
+[![Apptime](https://apptime.ai/og-image.webp)](https://apptime.ai)
